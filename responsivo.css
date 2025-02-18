@@ -1,0 +1,18 @@
+@media (max-width: 1080px) {
+    #cris{
+        width: 110px;
+    }
+
+    #fotopodo{
+        width: 90px;
+    }
+
+    #texto{
+        font-size: 13px;
+    }
+
+    .whats{
+        right: 5px;
+    }
+
+}
