@@ -11,6 +11,24 @@
         font-size: 13px;
     }
 
+    main{
+        display: inline-block;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #informações{
+        font-size: 14px;
+    }
+
+    #carrossel{
+        width: 60%;
+    }
+
+
+
+
+
     .whats{
         right: 5px;
     }
