@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Podo;
+    src: url(recursos/KeepCalm-Medium.ttf);
+} 
+    
 body{
     margin: 0;
     background-color: rgb(211, 204, 204);
@@ -26,7 +31,8 @@ main{
 .texto{
     width: 500px;
     height: 375px;
-    font-size: 22px;
+    font-family: Podo;
+    font-size: 19px;
     border: 1px solid black;
     background-color: rgb(215, 248, 230);
 }
