@@ -2,31 +2,36 @@
     #fotocris2{
         width: 60px;
     }
-
+    
     #texto{
         font-size: 12px;
     }
-
+    
     #podoft{
         width: 80px;
     }
-
+    
     main{
         display: inline-block;
         padding: 13px;
     }
-
+    
     .texto{
         width: 100%;
         height: 100%;
         font-size: 20px;
     }
-
+    
     #carrossel{
-        width: 230px;
+        margin-top: 10px;
+        width: 100%;
     }
-
+    
     .pe{
         font-size: 16px;
+    }
+
+    iframe{
+        width: 100%;
     }
 }
